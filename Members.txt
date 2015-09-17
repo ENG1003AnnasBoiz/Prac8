@@ -5,5 +5,19 @@ Anna Dai
 Rico Wu
  
 Cameron Sporish
+
+Brief Introduction
+
+My name is Cameron Sporish. My hobbies are
+playing basketball, playing games and working with 
+electronics.
+
+Role in project
+
+programming map API
+
+Preferred branch of engineering
+
+Electrical
  
 Daniel Griemick 
